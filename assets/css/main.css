@@ -719,7 +719,7 @@ header #menu-btn:hover {
 .portfolio-item .content p {
   font-size: 1.5rem;
   font-weight: 400;
-  color: var(--white);
+  color: rgb(243, 190, 190);
   transform-origin: top;
   -webkit-transform: translateY(-10rem);
   transform: translateY(-10rem);
