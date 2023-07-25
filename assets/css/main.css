@@ -249,7 +249,7 @@ header #menu-btn:hover {
 .home .image img {
   height: 40rem;
   width: 40rem;
-  border-radius: 50% 50% 50% 50% / 30% 30% 70% 70%;
+  border-radius: 75% 75% 50% 50% / 100% 100% 50% 50%;
   object-fit: cover;
 }
 
@@ -320,7 +320,8 @@ header #menu-btn:hover {
 
 .about .image img {
   width: 100%;
-  border: 1rem solid var(--purple);
+  border-radius: 30% 30% 30% 30% / 80% 80% 80% 80%;
+  object-fit: cover;
 }
 
 .about .content {
@@ -404,6 +405,7 @@ header #menu-btn:hover {
   text-align: center;
   background-color: rgba(19, 1, 1, 0.651);
   padding: 2rem;
+  border-radius: 90%/10%;
 }
 
 .counting .box .count {
